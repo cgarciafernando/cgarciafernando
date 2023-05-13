@@ -10,7 +10,7 @@
 
 
 	
-<h3 style="color:#638fda;"> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌍 &nbsp; Currently located in the city of Huelva, Spain.
 - 🎓 &nbsp; Studying Computer Science at University of Huelva, Spain.
