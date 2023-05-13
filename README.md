@@ -40,8 +40,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=bf91f3&center=true&vCenter=true&width=435&lines=Get+in+touch+with+me!" alt="Typing SVG" /></a></p>
 	
 <p align="center">
-<a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=white&labelColor=aa82d9&color=1a1b27'/></a>
-<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=aa82d9&color=1a1b27'/></a>
-<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=aa82d9&color=1a1b27'/></a>
-<a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=aa82d9&color=1a1b27'/></a>
+<a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=38bdae&labelColor=aa82d9&color=1a1b27'/></a>
+<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=38bdae&labelColor=aa82d9&color=1a1b27'/></a>
+<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=38bdae&labelColor=aa82d9&color=1a1b27'/></a>
+<a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=38bdae&labelColor=aa82d9&color=1a1b27'/></a>
 </p>
