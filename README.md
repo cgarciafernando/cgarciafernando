@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="#"><img alt="Website"></a>
-<a href="https://www.linkedin.com/in/fernando-carrillo-garcía/"><img alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/fernando-carrillo-garcía/" src=""><img alt="LinkedIn"></a>
 <a href="https://www.instagram.com/c.fernando.g/"><img alt="Instagram"></a>
 <a href="mailto:cgarciafernando@outlook.com"><img alt="Email"></a>
 </p>
