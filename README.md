@@ -35,5 +35,5 @@
 <p align="center">
 <a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
-  
+<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
 </p>
