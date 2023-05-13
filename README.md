@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Fernando! 🙋🏼‍♂️</b>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=bf91f3&center=true&vCenter=true&width=435&lines=Computer+engineer+in+the+making!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=38bdae&center=true&vCenter=true&width=435&lines=Computer+engineer+in+the+making!" alt="Typing SVG" /></a>
 </p>
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,7 +37,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=bf91f3&center=true&vCenter=true&width=435&lines=Get+in+touch+with+me!" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=38bdae&center=true&vCenter=true&width=435&lines=Get+in+touch+with+me!" alt="Typing SVG" /></a></p>
 	
 <p align="center">
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=1a1b27&labelColor=bf91f3&color=1a1b27'/></a>
