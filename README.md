@@ -41,7 +41,7 @@
 	
 <p align="center">
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
-<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
-<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
-<a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
+<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=C7EDFF&color=1a1b27'/></a>
+<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=C7EDFF&color=1a1b27'/></a>
+<a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=C7EDFF&color=1a1b27'/></a>
 </p>
