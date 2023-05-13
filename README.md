@@ -30,9 +30,9 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> 🤝🏻 &nbsp;Get In Touch With Me! </h3>
+<h3> 🤝🏻 &nbsp;Get In Touch With Me </h3>
 
 <p align="center">
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
   
 </p>
