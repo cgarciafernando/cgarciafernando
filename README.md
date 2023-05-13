@@ -29,3 +29,12 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="#"><img alt="Website"></a>
+<a href="https://www.linkedin.com/in/fernando-carrillo-garcía/"><img alt="LinkedIn"></a>
+<a href="https://www.instagram.com/c.fernando.g/"><img alt="Instagram"></a>
+<a href="mailto:cgarciafernando@outlook.com"><img alt="Email"></a>
+</p>
