@@ -30,11 +30,10 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Get In Touch With Me! </h3>
 
 <p align="center">
-<a href="#"><img alt="Website"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+[![My Website](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=purple&logo=&style=flat-square&logoColor=white)](#)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=purple&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/c.fernando.g/)
+[![cgarciafernando@outlook.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=purple&logo=gmail&style=flat-square&logoColor=white)](mailto:cgarciafernando@outlook.com)
 </p>
