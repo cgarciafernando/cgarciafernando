@@ -37,8 +37,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=6E56F7&width=435&lines=Get+in+touch+with+me!" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=6E56F7&center=true&vCenter=true&width=435&lines=Get+in+touch+with+me!" alt="Typing SVG" /></a></p>
 	
 <p align="center">
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
