@@ -36,7 +36,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> ☎️ &nbsp;Get In Touch</h3>
+<h3 align="center">Get In Touch</h3>
 
 <p align="center">
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=white&labelColor=C7EDFF&color=A3A3FF'/></a>
