@@ -9,7 +9,7 @@
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarciafernando&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciafernando&theme=tokyonight&hide_border=true)
 
-<br><br>
+<br>
 	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
