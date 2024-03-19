@@ -15,7 +15,7 @@
 
 - 🌍 &nbsp; Currently located in the city of Huelva, Spain.
 - 🎓 &nbsp; Studying Computer Science at University of Huelva, Spain.
-- ✍️ &nbsp; Pursuing Graphic Design as my main hobbie/side hustle.
+- ✍️ &nbsp; Pursuing Graphic Design as a freelance.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
