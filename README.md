@@ -14,7 +14,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌍 &nbsp; Currently located in the city of Huelva, Spain.
-- 🎓 &nbsp; Studying Computer Science at University of Huelva, Spain.
+- 🎓 &nbsp; Studying the speciality of Software Engineering at <a href = 'https://www.uhu.es/'>University of Huelva, Spain</a>.
 - ✍️ &nbsp; Working as a freelance graphic designer in my spare time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
