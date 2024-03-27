@@ -7,10 +7,11 @@
 <br><br>
 	
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarciafernando&show_icons=true&theme=catppuccin_mocha&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciafernando&theme=catppuccin_mocha&hide_border=true)
-<br><br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/cgarciafernando?theme=nord)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciafernando&theme=catppuccin_mocha&hide_border=true)
+<br>
+<br>
+
 	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
