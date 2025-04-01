@@ -69,8 +69,6 @@
 
 ## 🍄 Current Competitions
 
-[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Active-blue?style=flat&logo=kaggle)](https://www.kaggle.com/competitions/fungiclef2025)
-
 I'm currently participating in [FungiCLEF25 @ CVPR-FGVC & LifeCLEF](https://www.kaggle.com/competitions/fungiclef2025), a computer vision competition focused on fungi species identification.
 
 **Challenge:** Develop deep learning models that can identify fungi species from images captured in natural environments.
