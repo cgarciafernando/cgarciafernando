@@ -66,7 +66,22 @@
 <a href="https://www.kaggle.com/fcarrillo051">
   <img src="https://img.shields.io/badge/Kaggle-Contributor-blue?style=flat&logo=kaggle" />
 </a>
-	
+
+## 🍄 Current Competitions
+
+[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Active-blue?style=flat&logo=kaggle)](https://www.kaggle.com/competitions/fungiclef2025)
+
+I'm currently participating in [FungiCLEF25 @ CVPR-FGVC & LifeCLEF](https://www.kaggle.com/competitions/fungiclef2025), a computer vision competition focused on fungi species identification.
+
+**Challenge:** Develop deep learning models that can identify fungi species from images captured in natural environments.
+
+**My approach:**
+- Leveraging Vision-Language Models (VLMs) with synthetic descriptions for improved species classification
+- Implementing clustering techniques for grouping similar fungi species
+- Fine-tuning BioCLIP to better capture biological characteristics unique to fungi taxonomy
+
+[View competition →](https://www.kaggle.com/competitions/fungi-clef-2025/leaderboard)
+
 <p align="center">
 <a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Mail' src='https://img.shields.io/badge/Gmail-100000?style=flat-square&logo=Gmail&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
 <a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
