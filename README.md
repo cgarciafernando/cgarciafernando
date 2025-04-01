@@ -35,9 +35,9 @@
 
 - 🔍 &nbsp;**ML Specializations**
   ![VLMs](https://img.shields.io/badge/-VLMs-333333?style=flat&logo=opencv)
-  ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=tensorflow)
+  ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=brain)
   ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=opencv)
-  ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=transformer)
+  ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
   ![MLOps](https://img.shields.io/badge/-MLOps-333333?style=flat&logo=kubernetes)
 
 - 💻 &nbsp;**Programming**
@@ -74,4 +74,3 @@
 <a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
 <a href='https://www.kaggle.com/fcarrillo051' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=flat-square&logo=Kaggle&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
 </p>
-	
