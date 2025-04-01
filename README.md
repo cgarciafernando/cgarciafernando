@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Fernando!</b></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=94E2D5&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;NLP+Specialist;Deep+Learning+Enthusiast" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=94E2D5&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Vision+Language+Models;Deep+Learning+Enthusiast" alt="Typing SVG" /></a>
 </p>
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,7 +17,7 @@
 - 🤖 &nbsp; Passionate about all things related to Machine Learning and AI
 - 🌍 &nbsp; Currently located in the city of Huelva, Spain
 - 🎓 &nbsp; Studying Software Engineering at <a href='https://www.uhu.es/'>University of Huelva, Spain</a>
-- 🧠 &nbsp; Focused on NLP, Large Language Models, and Transformer architectures
+- 🧠 &nbsp; Focused on Vision Language Models (VLMs) and Deep Learning architectures
 - 📊 &nbsp; Active Kaggle contributor: <a href='https://www.kaggle.com/fcarrillo051'>fcarrillo051</a>
 - ✍️ &nbsp; Working as a freelance graphic designer in my spare time
 
@@ -34,10 +34,10 @@
   ![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia)
 
 - 🔍 &nbsp;**ML Specializations**
-  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=spacy)
-  ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=transformer)
-  ![LLMs](https://img.shields.io/badge/-LLMs-333333?style=flat&logo=openai)
   ![VLMs](https://img.shields.io/badge/-VLMs-333333?style=flat&logo=opencv)
+  ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=tensorflow)
+  ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=opencv)
+  ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=transformer)
   ![MLOps](https://img.shields.io/badge/-MLOps-333333?style=flat&logo=kubernetes)
 
 - 💻 &nbsp;**Programming**
@@ -61,14 +61,19 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> 📊 &nbsp;Kaggle Stats</h3>
+<h3> 📊 &nbsp;Kaggle</h3>
 
 <a href="https://www.kaggle.com/fcarrillo051">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fcarrillo051/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fcarrillo051/discussion" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fcarrillo051/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/fcarrillo051/competition" />
+  <img src="https://img.shields.io/badge/Kaggle-Contributor-blue?style=flat&logo=kaggle" />
 </a>
+	
+<p align="center">
+<a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
+<a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Mail' src='https://img.shields.io/badge/Gmail-100000?style=flat-square&logo=Gmail&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
+<a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=LinkedIn&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
+<a href='https://www.instagram.com/c.fernando.g/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat-square&logo=Instagram&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
+<a href='https://www.kaggle.com/fcarrillo051' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=flat-square&logo=Kaggle&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
+</p>
 	
 <p align="center">
 <a href='#' target="_blank"><img alt='Microsoft Edge' src='https://img.shields.io/badge/Website-100000?style=flat-square&logo=Microsoft Edge&logoColor=1a1b27&labelColor=94E2D5&color=1a1b27'/></a>
