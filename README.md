@@ -21,7 +21,7 @@
 - 📊 &nbsp; Active Kaggle contributor: <a href='https://www.kaggle.com/fcarrillo051'>fcarrillo051</a>
 - ✍️ &nbsp; Working as a freelance graphic designer in my spare time
 
-<h3> 🛠 &nbsp;Machine Learning Stack</h3>
+<h3> 🛠 &nbsp;Technology Stack</h3>
 
 - 🤖 &nbsp;**Machine Learning & AI**
   ![PyTorch](https://img.shields.io/badge/-PyTorch-0066CC?style=flat&logo=pytorch&logoColor=white)
