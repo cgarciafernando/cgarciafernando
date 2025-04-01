@@ -5,12 +5,14 @@
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
-	
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgarciafernando&show_icons=true&theme=transparent&title_color=0066CC&text_color=1A73E8&icon_color=4285F4&border_color=2C7BB6&bg_color=ffffff)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciafernando&theme=transparent&title_color=0066CC&text_color=1A73E8&border_color=2C7BB6&bg_color=ffffff)
-<br>
-<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=cgarciafernando&show_icons=true&theme=transparent&title_color=0066CC&text_color=1A73E8&icon_color=4285F4&border_color=2C7BB6&bg_color=ffffff&show=reviews,discussions_started&hide=contribs,prs&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgarciafernando&layout=compact&langs_count=8&card_width=320&theme=transparent&title_color=0066CC&text_color=1A73E8&border_color=2C7BB6&bg_color=ffffff" />
+</a>
+<br><br>
 	
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -21,7 +23,7 @@
 - 📊 &nbsp; Active Kaggle contributor: <a href='https://www.kaggle.com/fcarrillo051'>fcarrillo051</a>
 - ✍️ &nbsp; Working as a freelance graphic designer in my spare time
 
-<h3> 🛠 &nbsp;Technology Stack</h3>
+<h3> 🛠 &nbsp;Machine Learning Stack</h3>
 
 - 🤖 &nbsp;**Machine Learning & AI**
   ![PyTorch](https://img.shields.io/badge/-PyTorch-0066CC?style=flat&logo=pytorch&logoColor=white)
