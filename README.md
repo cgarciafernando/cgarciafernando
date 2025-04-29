@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Fernando!</b></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0066CC&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Vision+Language+Models;Deep+Learning+Enthusiast" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0066CC&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
 </p>
 
 <br>
