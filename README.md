@@ -56,11 +56,13 @@
 </p>
 <br>
 
-<!-- Current Kaggle Competition -->
-<h3> 🍄  Current Competition: FungiCLEF25</h3>
+### 🏆 Featured Competitions
 
-- **Objective:** Fungi species identification from images.
-- **Approach:** Vision-Language Models (VLMs), BioCLIP fine-tuning, Clustering.
+### 🍄 FungiCLEF25 (Kaggle) – 22nd Place / Recall@5: 0.58
+
+- **Objective:** Identification of fungi species from images  
+- **Approach:** Vision-Language Models (VLMs), BioCLIP fine-tuning, clustering  
+- **Achievement:** Improved median score by **30%**
 
 [View competition →](https://www.kaggle.com/competitions/fungi-clef-2025/leaderboard)
 
