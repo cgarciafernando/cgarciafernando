@@ -1,76 +1,50 @@
-<h1 align="center"><b>Hi, I'm Fernando!</b></h1>
+<h1 align="center">Hi, I'm Fernando Carrillo! 🛰️</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0066CC&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0066CC&center=true&vCenter=true&width=500&lines=Computer+Engineering;Data+Engineering;Machine+Learning" alt="Typing SVG" />
 </p>
 
-<br>
-
-<!-- About Me Section -->
-<h3> 👨🏻‍💻  About Me </h3>
-
-- Passionate about Machine Learning & AI.
-- Focused on Vision-Language Models & Deep Learning Architectures.
-- Located in Huelva, Spain.
-- Kaggle Contributor: [fcarrillo051](https://www.kaggle.com/fcarrillo051)
-- Design Skills: Illustrator, Photoshop
-
-<br>
-
-<!-- Machine Learning Stack -->
-<h3> 🛠  Tech Stack</h3>
-
-**Machine Learning & AI:**
-<p>
-  <img src="https://img.shields.io/badge/-PyTorch-0066CC?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow-0066CC?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-ScikitLearn-0066CC?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/-HuggingFace-0066CC?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/-Pandas-0066CC?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-0066CC?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Jupyter-0066CC?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-CUDA-0066CC?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
-</p>
-
-**ML Specializations:**
-<p>
-  <img src="https://img.shields.io/badge/-Vision%20Language%20Models-1A73E8?style=flat&logo=opencv&logoColor=white" alt="VLMs" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-1A73E8?style=flat&logo=brain&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-1A73E8?style=flat&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/-Transformers-1A73E8?style=flat&logo=huggingface&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/-MLOps-1A73E8?style=flat&logo=kubernetes&logoColor=white" alt="MLOps" />
-</p>
-
-**Languages:**
-<p>
-    <img src="https://img.shields.io/badge/-Python-2C7BB6?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-Java-2C7BB6?style=flat&logo=Java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/-C++-2C7BB6?style=flat&logo=C%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-**Tools:**
-<p>
-    <img src="https://img.shields.io/badge/-GitHub-4169E1?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-Docker-4169E1?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-4169E1?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-</p>
-<br>
-
-### 🏆 Featured Competitions
-
-### 🍄 FungiCLEF25 (Kaggle) – 22nd Place / Recall@5: 0.58
-
-- **Objective:** Identification of fungi species from images  
-- **Approach:** Vision-Language Models (VLMs), BioCLIP fine-tuning, clustering  
-- **Achievement:** Improved median score by **30%**
-
-[View competition →](https://www.kaggle.com/competitions/fungi-clef-2025/leaderboard)
-
-<br>
-
-<!-- Social Links -->
 <p align="center">
-  <a href='mailto:cgarciafernando@outlook.com' target="_blank"><img alt='Mail' src='https://img.shields.io/badge/Email-100000?style=flat-square&logo=Gmail&logoColor=white&labelColor=2C7BB6&color=white'/></a>
-  <a href='https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=2C7BB6&color=white'/></a>
-  <a href='https://www.kaggle.com/fcarrillo051' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=flat-square&logo=Kaggle&logoColor=white&labelColor=2C7BB6&color=white'/></a>
+  <a href="https://www.linkedin.com/in/fernando-carrillo-garc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/fcarrillo051"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,kafka,docker,postgres,github,linux,pytorch" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projects & Work
+
+#### 🛰️ [Sentinel-2 Orbital Monitor](https://github.com/cgarciafernando/sentinel2-orbital-monitor)
+*Automated ETL pipeline for satellite imagery ingestion.*
+- **Focus:** Decoupled architecture and production-ready containerization.
+- `Python` `Docker` `Sentinel-API`
+
+#### 🍄 [FungiCLEF 2025 - Thesis](https://github.com/cgarciafernando/fungiclef-2025-tfg)
+*Large-scale Computer Vision using Vision-Language Models (VLMs).*
+- **Achievement:** Ranked 22nd globally in the Kaggle competition.
+- `PyTorch` `Transformers` `BioCLIP`
+
+#### ⚡ [Dark Vessel Detector](https://github.com/cgarciafernando/sentinel2-orbital-monitor) (In Progress)
+*Real-time maritime surveillance and data fusion.*
+- **Stack:** Kafka, Spark Structured Streaming, H3 Indexing.
+
+---
+
+### 📈 Coding Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cgarciafernando&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/cgarciafernando/cgarciafernando/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>"Turning raw data into robust engineering solutions."</i>
 </p>
