@@ -29,11 +29,7 @@
 *Large-scale Computer Vision using Vision-Language Models (VLMs).*
 - **Achievement:** Ranked 22nd globally in the Kaggle competition.
 - `PyTorch` `Transformers` `BioCLIP`
-
-#### ⚡ [Dark Vessel Detector](https://github.com/cgarciafernando/sentinel2-orbital-monitor) (In Progress)
-*Real-time maritime surveillance and data fusion.*
-- **Stack:** Kafka, Spark Structured Streaming, H3 Indexing.
-
+- 
 ---
 
 ### 📈 Coding Activity
